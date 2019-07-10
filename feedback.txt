@@ -1,30 +1,30 @@
-In summary, you received 70.000000 / 70 possible points for correctness
-and quality of guesses (the objecteive assessment), and  26 / 30
+In summary, you received 70.0 / 70.0 marks for correctness
+and quality of guesses (the objecteive assessment), and  23 / 30
 marks for code quality.  Your submission was 0 hours late,
 with an extension of 0 hours, incurring a penalty of 0%.
 This all gives you
 
-    96.000000% 
+    93.000000%
 
 for this project.  This will be scaled to the value of the project.
 
 We assessed your code quality according to these criteria, leading to
-your  26 / 30 marks for code quality:
+your  23 / 30 marks for code quality:
 
-  5 / 5  Quality of file-level documentation, including authorship
+  1 / 5  Quality of file-level documentation, including authorship
 
-  4 / 5  Quality of predicate-level documentation
+  5 / 5  Quality of function- and type-level documentation
 
-  4 / 5  Readability of code (lines not wrapped, good, consistent
-         layout)
+  5 / 5  Readability of code (lines not wrapped, good, consistent
+         layout, no redundant comments)
 
-  5 / 5  Understandability of code (good choice of names,
-         no redundant comments, well organised)
+  4 / 5  Understandability of code (good choice of names,
+         subtleties documented, well organised)
 
   4 / 5  Appropriate abstraction (no chunks of repeated code; no
-         really long clauses, good types
+         really long functions, good types)
 
-  4 / 5  Good use of logic programming paradigm
+  4 / 5  Good use of language and libraries
 
 These assessments reflect the annotations in the accompanying program
 listing.
